@@ -1,8 +1,10 @@
-### Hey there! 👋
+### About me ✍️:
 
-I'm **David**, turning data into decisions.
+Hey there! 👋
 
-I'm an **aspiring analyst** who loves digging through numbers with:
+I'm David, turning data into decisions.
+
+I'm a trained analyst who never stopped self-studying, who loves digging through numbers with:
 
 - 🐍 Python
 - 🗄️ SQL
