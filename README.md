@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm David</h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 <div align="center">
-<a href="https://davidtmaja.wixsite.com/profile"><h2>View My Portfolio</h2></a>
 </div>
 <h2 align="center">About Me</h2>
 <p align="left">
