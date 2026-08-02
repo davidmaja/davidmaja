@@ -56,7 +56,7 @@ Data Science & Machine Learning
 <img src="https://img.shields.io/badge/clientmat-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="clientmat"/>
 <img src="https://img.shields.io/badge/stars-00AEEF?style=for-the-badge&logo=r&logoColor=white" alt="stars"/>
 </p>
-  
+</p>
 <br />
 GitHub Stats
 <p align="center">
