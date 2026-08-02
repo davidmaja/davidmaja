@@ -65,23 +65,13 @@ Operating Systems
 <br />
 GitHub Stats
 <p align="center">
-<img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
+<img src="https://ghchart.rshah.org/davidmaja" alt="GitHub Contribution Chart" />
 </p>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmaja&theme=default" alt="GitHub Streak" width="40%">
 </div>
 Projects
 <ul>
-<li>
-<strong>Bitcoin Analyiz:</strong>
-<a href="#">REPO LINK</a> |
-<a href="#">Notebook</a>
-</li>
-<li>
-<strong>Bitcoin Analyiz:</strong>
-<a href="#">REPO LINK</a> |
-<a href="#">Notebook</a>
-</li>
 <li>
 <strong>Bitcoin Analyiz:</strong>
 <a href="#">REPO LINK</a> |
