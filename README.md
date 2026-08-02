@@ -56,12 +56,7 @@ Data Science & Machine Learning
 <img src="https://img.shields.io/badge/clientmat-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="clientmat"/>
 <img src="https://img.shields.io/badge/stars-00AEEF?style=for-the-badge&logo=r&logoColor=white" alt="stars"/>
 </p>
--->
-Operating Systems
-<p align="left">
-<img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
-<img src="https://img.shields.io/badge/Mac OS-F37626?style=for-the-badge&logo=mac os" alt="Mac OS"/>
-</p>
+  
 <br />
 GitHub Stats
 <p align="center">
