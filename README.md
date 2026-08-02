@@ -1,12 +1,11 @@
 <!--This is a template for a Profile Readme File-->
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
+<h1 align="center">Hi, I'm David </h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 <div align="center">
-<a href="https://davidtmaja.wixsite.com/profile"><h2>View My Portfolio</h2></a>
 </div>
 <h2 align="center">About Me</h2>
 <p align="left">
-I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
+I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making.
 </p>
 <h2 align="center">Skills & Tools</h2>
 Programming Languages
@@ -67,23 +66,13 @@ Operating Systems
 <br />
 GitHub Stats
 <p align="center">
-<img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
+<img src="https://ghchart.rshah.org/davidmaja" alt="GitHub Contribution Chart" />
 </p>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmaja&theme=default" alt="GitHub Streak" width="40%">
 </div>
 Projects
 <ul>
-<li>
-<strong>Bitcoin Analyiz:</strong>
-<a href="#">REPO LINK</a> |
-<a href="#">Notebook</a>
-</li>
-<li>
-<strong>Bitcoin Analyiz:</strong>
-<a href="#">REPO LINK</a> |
-<a href="#">Notebook</a>
-</li>
 <li>
 <strong>Bitcoin Analyiz:</strong>
 <a href="#">REPO LINK</a> |
@@ -99,15 +88,12 @@ Future Project
 Connect With Me
 <p align="center">
 <!-- linkdin-->
-<a href="YOUR LINKDIN URL" target="_blank">
+<a href="(https://www.linkedin.com/in/david-maja/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <!-- Email -->
-<a href="YOUR_EMAIL_HERE">
+<a href="david.t.maja@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="YOUR_Facebook_LINK_HERE" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=FB&logoColor=white" alt="Facebook"/>
 </a>
 </p>
 <p align="center"><strong>Thanks for visiting!</strong></p>
